@@ -1,4 +1,4 @@
-This repository provides the official implementation of the NeurIPS 2025 paper Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization. The method leverages hypergraph-enhanced contrastive learning and Hyper-Laplacian regularization to capture high-order relationships, improving multi-view representation learning and clustering performance.
+This repository provides the implementation of the NeurIPS 2025 paper Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization. The method leverages hypergraph-enhanced contrastive learning and Hyper-Laplacian regularization to capture high-order relationships, improving multi-view representation learning and clustering performance.
 
 If you find this code useful, please cite:
 
