@@ -1,4 +1,4 @@
-If you find our work useful in your research, please consider citing:
+The code for NeurIPS 2025 work Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization
 
 @article{hoper2026,
   title={Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization},
